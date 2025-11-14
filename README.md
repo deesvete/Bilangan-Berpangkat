@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
   <head>
     <meta charset="utf-8" />
@@ -145,8 +144,6 @@
       </div>
     </main>
     <footer>
-      © 2025 — Materi Interaktif Matematika | Dibuat dengan ❤️-Desfita Cahya
-      Nuralifah (B2B023021)
     </footer>
     <script>
       const quizData = [
